@@ -1,5 +1,5 @@
 /*
-*	Created by Aakash, Peter, Abhishek, Amit
+*	Created by Aakash Sunil, Peter Hudson, Abhishek Dayal, Amit Kumar Singh
 *	
 *	Implementation of a Digitized form of Telephone Directory
 *	using the concepts of Linked Lists
